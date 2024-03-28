@@ -29,7 +29,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: ngnix-service
+  name: nginx-service
   namespace: hello-keswick
 spec:
   selector:
